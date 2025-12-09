@@ -18,4 +18,4 @@ Passionate about creating modern web applications and exploring cloud technologi
 
 ---
 
-> Always learning, building, and collaborating on exciting tech projects!
+> Always learning
