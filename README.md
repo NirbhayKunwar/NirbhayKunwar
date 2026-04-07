@@ -25,22 +25,6 @@ Git • GitHub • Jira • VS Code
 
 ---
 
-## 🌟 Featured Project
-
-### 🚦 Intelligent Traffic Management System (ITMS)
-
-A full-stack web application that leverages **computer vision** and **data-driven insights** to monitor traffic conditions.
-
-**Key Highlights:**
-
-* 🚗 Vehicle detection & congestion estimation
-* ⚠️ Accident detection using annotated datasets
-* 📊 Interactive dashboard for real-time insights
-* 🔐 Secure authentication (JWT + Google OAuth)
-* 🗺️ Map-based visualization using Leaflet
-
----
-
 ## 📈 What I'm Currently Working On
 
 * Improving full-stack projects with better UI/UX
