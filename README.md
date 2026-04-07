@@ -39,10 +39,4 @@ Git • GitHub • Jira • VS Code
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy turning complex problems into simple, user-friendly solutions.
-
----
-
 > 🚀 *Always learning, always building.*
